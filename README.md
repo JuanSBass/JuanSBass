@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola, estoy iniciando a construir mi overview 👋
+### Huele a navidad! 👀🎄
 
 <!--
 **JuanSBass/JuanSBass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
