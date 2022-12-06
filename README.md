@@ -19,7 +19,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Tecnologías 
 <table><tr><td valign="top" width="33%">
 
 
@@ -101,7 +101,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=JuanSBass&&style=flat-square" align="center" />
 </div>  
   
 
@@ -112,3 +112,7 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<br />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u4sr4uajf7i6nh5dwfu3lmjdze&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
